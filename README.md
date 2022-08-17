@@ -23,4 +23,4 @@ DBSCAN stands for density-based spatial clustering of applications with noise. I
  
  Applied KMeans, Agglomerative Hierarchical Clustering and DBSCAN algorithm to cluster the data points
  
- Performed Elbow Technique , Silhouette Score and Davies-Bouldin techniques to find number of clusters which is equal to 5.
+ Performed Elbow Technique , Silhouette Score and Davies-Bouldin techniques to find number of clusters.
